@@ -2,11 +2,15 @@
   <img src="https://raw.githubusercontent.com/legato-app/legato/master/src-tauri/icons/icon.png" width="96" alt="Legato's icon">
 </p>
 
-<h1 align="center">Legato</h1>
+<h1 align="center">Get ALL in one.</h1>
 
 <p align="center">
-  One music player for Spotify, YouTube, Apple Music, your own servers and your files.<br>
-  On Windows and Android. Free, no account of ours, no server of ours.
+  Legato: one library and one player for YouTube Music, your Spotify and Apple Music playlists, your own servers and your files.<br>
+  On Windows and Android. Free, no account of ours.
+</p>
+
+<p align="center">
+  <sub>NO SERVER OF OURS · MULTI-PLATFORM · MODERN UI · SOURCE AVAILABLE</sub>
 </p>
 
 <p align="center">
@@ -16,7 +20,9 @@
   <a href="https://github.com/legato-app/legato/issues">Report a bug</a>
 </p>
 
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legato-app/legato/master/site/public/shots/library-dark.webp">
-  <img alt="Legato's Songs page: songs from every service in one list" src="https://raw.githubusercontent.com/legato-app/legato/master/site/public/shots/library-light.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legato-app/legato/master/site/public/landing/float-dark.svg">
+  <img alt="Legato on a phone, a desktop monitor and a laptop, with a music note, a record, headphones and a sync wave floating around them" src="https://raw.githubusercontent.com/legato-app/legato/master/site/public/landing/float-light.svg">
 </picture>
+</p>
